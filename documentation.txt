@@ -1,0 +1,2 @@
+-Used BoxIcons to create icons in our website like menu,darkmode etc.
+-images are from unsplash and pixabay websites. some are random images from search engine as well.
